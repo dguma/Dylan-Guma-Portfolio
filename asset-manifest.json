@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dylan-guma-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/dylan-guma-portfolio/static/js/main.05977316.js",
+    "static/js/787.4e2e3f2c.chunk.js": "/dylan-guma-portfolio/static/js/787.4e2e3f2c.chunk.js",
+    "static/media/logo.svg": "/dylan-guma-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dylan-guma-portfolio/index.html",
+    "main.073c9b0a.css.map": "/dylan-guma-portfolio/static/css/main.073c9b0a.css.map",
+    "main.05977316.js.map": "/dylan-guma-portfolio/static/js/main.05977316.js.map",
+    "787.4e2e3f2c.chunk.js.map": "/dylan-guma-portfolio/static/js/787.4e2e3f2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.05977316.js"
+  ]
+}
